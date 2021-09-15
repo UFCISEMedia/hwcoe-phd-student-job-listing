@@ -1,0 +1,32 @@
+/*
+*
+* HWCOE Syllabi Styles
+*
+*/
+
+#psjm-container {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-between;
+}
+
+#psjm-entry {
+	max-width: 250px;
+	margin-bottom: 20px;
+}
+
+#psjm-entry hr {
+	margin: 20px 0;
+	border: solid 1px #f37021;
+	width: 80%;
+}
+
+#psjm-entry h5 {
+	font-size: 21px;
+	text-transform: none;
+	margin: 0;
+}
+
+#psjm-entry p {
+	margin: 0 0 9px;
+}
